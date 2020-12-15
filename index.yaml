@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  demo-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-12-15T15:22:37.325781647+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 5d095f657268f504c498ecd9a1ddafafe9b84c967010c1bad03d639fa691571e
+    name: demo-chart
+    type: application
+    urls:
+    - https://github.com/Wizard-Z/helm-sample/demo-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-12-15T15:22:37.29518058+05:30"
